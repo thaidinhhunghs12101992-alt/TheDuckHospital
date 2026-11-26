@@ -1,0 +1,210 @@
+{
+  "homeScreen": {
+    "hello": "Xin chào",
+    "welcome": "Mừng bạn quay trở lại",
+    "noLoginHello": "The Duck Hospital\nXin chào,",
+    "makeAppointment": "Đặt khám\ntheo bác sĩ",
+    "makeAppointmentNoNewLine": "Đặt khám theo bác sĩ",
+    "lookupMedicalResult": "Tra cứu kết quả\nkhám bệnh",
+    "lookupMedicalResultNoNewLine": "Tra cứu kết quả khám bệnh",
+    "payHospitalFee": "Thanh toán\nviện phí",
+    "payHospitalFeeNoNewLine": "Thanh toán viện phí",
+    "medicineReminder": "Đặt lịch\nuống thuốc",
+    "medicineReminderNoNewLine": "Đặt lịch uống thuốc",
+    "quickSupport": "Hỗ trợ nhanh",
+    "viewMore": "Xem thêm",
+    "instructionBooking": "Hướng dẫn đặt khám",
+    "bookingViaHotline": "Đặt khám qua tổng đài 1900-1234",
+    "ourTeam": "Đội ngũ của chúng tôi",
+    "ourDoctor": "Các bác sĩ chuyên môn của bệnh viện"
+  },
+  "bottomTab": {
+    "home": "Trang chủ",
+    "patientProfile": "Hồ sơ",
+    "medicalBill": "Phiếu khám",
+    "notification": "Thông báo",
+    "account": "Tài khoản"
+  },
+  "medicalBill": {
+    "title": "Danh sách phiếu khám"
+  },
+  "patientProfile": {
+    "title": "Hồ sơ bệnh nhân",
+    "item": {
+      "details": "Xem chi tiết"
+    }
+  },
+  "notification": {
+    "title": "Thông báo"
+  },
+  "account": {
+    "generalSettings": "Cài đặt chung",
+    "language": "Ngôn ngữ",
+    "changeLanguage": "Thay đổi ngôn ngữ",
+    "changePassword": "Đổi mật khẩu",
+    "deviceManagement": "Quản lý thiết bị",
+    "notificationSettings": "Cài đặt thông báo",
+    "contactSupport": "Liên hệ",
+    "hotline": "Tổng đài 1900-1234",
+    "ratingApp": "Đánh giá ứng dụng",
+    "shareApp": "Chia sẻ ứng dụng",
+    "signOut": "Đăng xuất",
+    "signIn": "Đăng nhập",
+    "myWallet": "My Wallet"
+  },
+  "notFoundScreen": {
+    "title": "Trang không tồn tại",
+    "desc": "Xin lỗi. Trang bạn đang tìm kiếm không tồn tại hoặc đã bị xóa. Vui lòng quay về trang chủ!",
+    "backToHome": "Quay về trang chủ"
+  },
+  "loginScreen": {
+    "welcome": "Chào mừng!",
+    "signInYourAccount": "Đăng nhập tài khoản của bạn",
+    "email": "Email hoặc số điện thoại",
+    "password": "Mật khẩu",
+    "forgotPassword": "Quên mật khẩu?",
+    "rememberMe": "Nhớ đăng nhập",
+    "signIn": "Đăng nhập",
+    "dontHaveAccount": "Chưa có tài khoản? ",
+    "signUp": "Đăng ký",
+    "phoneNumberError": "Vui lòng nhập email hoặc số điện thoại",
+    "passwordError": "Vui lòng nhập mật khẩu"
+  },
+  "registerScreen": {
+    "createAccount": "Tạo tài khoản",
+    "quicklyCreateAccount": "Tạo tài khoản nhanh chóng và dễ dàng",
+    "fullName": "Họ và tên",
+    "phoneNumber": "Số điện thoại",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "alreadyHaveAccount": "Bạn đã có tài khoản? ",
+    "signIn": "Đăng nhập",
+    "register": "Đăng ký",
+    "fullNameError": "Vui lòng nhập họ và tên",
+    "phoneNumberError": "Vui lòng nhập số điện thoại",
+    "phoneNumberLengthError": "Số điện thoại phải có 10 chữ số",
+    "passwordError": "Vui lòng nhập mật khẩu",
+    "passwordLengthError": "Mật khẩu phải có ít nhất 8 ký tự, chứa cả chữ và số",
+    "confirmPasswordError": "Vui lòng xác nhận mật khẩu",
+    "confirmPasswordMatchError": "Mật khẩu xác nhận không khớp"
+  },
+  "forgotPasswordScreen": {
+    "forgotPassword": "Quên mật khẩu",
+    "enterPhone": "Vui lòng nhập email hoặc số điện thoại của bạn để đặt lại mật khẩu",
+    "email": "Email hoặc số điện thoại",
+    "resetPassword": "Đặt lại mật khẩu",
+    "changePasswordSuccess": "Đổi mật khẩu thành công",
+    "changePasswordFail": "Đổi mật khẩu thất bại"
+  },
+  "verifyPhoneScreen": {
+    "title": "Xác thực số điện thoại",
+    "verifyPhone": "Xác thực số điện thoại của bạn",
+    "alreadySend": "Chúng tôi đã gửi mã xác thực đến số điện thoại",
+    "checkAndEnterCode": "Vui lòng kiểm tra và nhập mã vào ô bên dưới.",
+    "notReceive": "Bạn không nhận được mã xác thực",
+    "resendCode": "Gửi lại mã xác thực"
+  },
+  "chooseDoctorForBooking": {
+    "title": "Chọn bác sĩ",
+    "placeHolderSearch": "Tìm bác sĩ theo tên",
+    "filter": "Bộ lọc",
+    "academicRanks": "Học hàm/vị",
+    "departmentInFilter": "Chuyên khoa",
+    "placeHolderSearchDepartment": "Tìm kiếm chuyên khoa",
+    "department": "Chuyên khoa:",
+    "date": "Ngày khám:",
+    "gender": "Giới tính:",
+    "fee": "Phí khám:",
+    "rating": "Đánh giá:"
+  },
+
+  "chooseDate": {
+    "title": "Chọn ngày khám",
+    "note": "Vui lòng chọn ngày khám phù hợp với lịch trình của bạn. Chúng tôi hỗ trợ đặt lịch khám trước từ",
+    "noteDate": "1 đến 30 ngày",
+    "toDay": "Hôm nay",
+    "outOfSlot": "Kín chỗ",
+    "freeSlot": "Còn trống",
+    "chooseTime": "Chọn giờ khám",
+    "close": "Huỷ",
+    "morning": "Buổi sáng",
+    "afternoon": "Buổi chiều"
+  },
+  "chooseProfile": {
+    "title": "Chọn hồ sơ bệnh nhân"
+  },
+  "confirmBookingInformationInBooking": {
+    "title": "Xác nhận thông tin",
+    "departmentHaveChoosen": "Chuyên khoa đã chọn",
+    "deletedAll": "Xoá hết",
+    "department": "Chuyên khoa:",
+    "doctor": "Bác sĩ:",
+    "date": "Ngày khám:",
+    "time": "Giờ khám:",
+    "fee": "Phí khám:",
+    "temporaryTolal": "Tổng tiền tạm tính:",
+    "addMoreDepartments": "Thêm chuyên khoa",
+    "confirm": "Xác nhận"
+  },
+  "billingInformation": {
+    "title": "Thông tin thanh toán",
+    "note": "Vui lòng kiểm tra lại thông tin trước khi thanh toán",
+    "patientInformation": "Thông tin bệnh nhân",
+    "bookingInformation": "Thông tin đặt khám",
+    "doctor": "Bác sĩ",
+    "typeOfService": "Dịch vụ khám",
+    "serviceExamination": "Khám dịch vụ",
+    "department": "Chuyên khoa",
+    "date": "Ngày khám",
+    "time": "Giờ khám",
+    "fee": "Tiền khám:",
+    "choosePaymentMethod": "Chọn phương thức thanh toán",
+    "momoE-wallet": "Ví điện tử Momo",
+    "vnpayE-wallet": "Ví điện tử VNPay",
+    "otherFee": "Phí tiện ích + TGTT",
+    "total": "Tổng tiền",
+    "confirmNote": "Tôi đồng ý Phí tiện ý TheDuck Hospital cung cấp để đặt khám, thanh toán viện phí, đây không phải là dịch vụ bắt buộc bởi cơ sở ý tế.",
+    "payment": "Thanh toán",
+    "notEnoughMoney": "Số dư không đủ để thanh toán. Vui lòng nạp tiền vào ví để tiếp tục thanh toán",
+    "success": "Thanh toán thành công",
+    "fail": "Thanh toán thất bại"
+  },
+  "wallet": {
+    "accountOwner": "Chủ tài khoản",
+    "availableBalance": "Số dư khả dụng",
+    "phoneNumber": "Số điện thoại",
+    "createDate": "Ngày tạo",
+    "myWallet": "Ví của tôi",
+    "transactionInThisMonth": "Giao dịch trong tháng này",
+    "statistic": "Thống kê",
+    "topUp": "Nạp tiền",
+    "qrScan": "Quét QR",
+    "recentTransaction": "Giao dịch gần đây",
+    "viewAll": "Xem tất cả",
+    "enterPinCode": "Nhập mã PIN",
+    "forgotPinCode": "Quên mã PIN?",
+    "forgotPinCodeMessage": "Vui lòng liên hệ với bộ phận hỗ trợ để được hỗ trợ"
+  },
+  "forgotPassword": {
+    "password": "Mật khẩu",
+    "changePassword": "Đổi mật khẩu mới",
+    "oldPassword": "Mật khẩu cũ",
+    "newPassword": "Mật khẩu mới",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "change": "Đổi mật khẩu",
+    "enterCorrectInfo": "Vui lòng nhập chính xác các thông tin bên dưới để đặt mật khẩu mới",
+    "blankOldPassword": "Mật khẩu cũ không được để trống",
+    "blankNewPassword": "Mật khẩu mới không được để trống",
+    "blankConfirmPassword": "Xác nhận mật khẩu không được để trống",
+    "confirmPasswordNotMatch": "Mật khẩu xác nhận không khớp",
+    "passwordLengthError": "Mật khẩu mới phải chứa ít nhất 8 ký tự, 1 chữ hoa, 1 chữ thường, 1 số và 1 ký tự đặc biệt"
+  },
+  "changeAccountInfo": {
+    "title": "Thay đổi thông tin\ntài khoản",
+    "fullName": "Họ và tên",
+    "phoneNumber": "Số điện thoại",
+    "numberOfCreatedProfiles": "Số hồ sơ đã tạo (có thể tạo tối đa 10 hồ sơ)",
+    "save": "Lưu",
+    "createdAt": "Ngày tạo tài khoản"
+  }
+}

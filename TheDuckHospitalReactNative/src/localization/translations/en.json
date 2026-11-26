@@ -1,0 +1,204 @@
+{
+  "homeScreen": {
+    "hello": "Hi",
+    "welcome": "Welcome back!",
+    "noLoginHello": "The Duck Hospital\nHello,",
+    "makeAppointment": "Make an appointment",
+    "makeAppointmentNoNewLine": "Make an appointment",
+    "lookupMedicalResult": "Lookup medical result",
+    "lookupMedicalResultNoNewLine": "Lookup medical result",
+    "payHospitalFee": "Hospital payment fee",
+    "payHospitalFeeNoNewLine": "Pay hospital fee",
+    "medicineReminder": "Medicine reminder",
+    "medicineReminderNoNewLine": "Medicine reminder",
+    "quickSupport": "Quick support",
+    "viewMore": "View more",
+    "instructionBooking": "Instruction for booking",
+    "bookingViaHotline": "Book an examination via hotline 1900-1234",
+    "ourTeam": "Our hospital team",
+    "ourDoctor": "Our hospital's specialist doctors"
+  },
+  "bottomTab": {
+    "home": "Home",
+    "patientProfile": "Profile",
+    "medicalBill": "Medical Bill",
+    "notification": "Notification",
+    "account": "Account"
+  },
+  "medicalBill": {
+    "title": "Medical Bills"
+  },
+  "patientProfile": {
+    "title": "Profile",
+    "item": {
+      "details": "View Details"
+    }
+  },
+  "account": {
+    "generalSettings": "General Settings",
+    "language": "Language",
+    "changeLanguage": "Change Language",
+    "changePassword": "Change Password",
+    "deviceManagement": "Device Management",
+    "notificationSettings": "Notification Settings",
+    "contactSupport": "Contact Support",
+    "hotline": "Hotline 1900-1234",
+    "ratingApp": "Rating App",
+    "shareApp": "Share App",
+    "signOut": "Sign Out",
+    "signIn": "Sign In",
+    "myWallet": "My Wallet"
+  },
+  "notification": {
+    "title": "Notification"
+  },
+  "notFoundScreen": {
+    "title": "Page Not Found",
+    "desc": "Sorry. The page you are looking for does not exist or has been deleted. Please return to the home page!",
+    "backToHome": "Back to Home"
+  },
+  "loginScreen": {
+    "welcome": "Welcome back!",
+    "signInYourAccount": "Sign in to your account",
+    "email": "Email or phone number",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "rememberMe": "Remember me",
+    "signIn": "Sign in",
+    "dontHaveAccount": "Don't have an account? ",
+    "signUp": "Sign up"
+  },
+  "registerScreen": {
+    "createAccount": "Create account",
+    "quicklyCreateAccount": "Quickly create an account",
+    "fullName": "Full name",
+    "phoneNumber": "Phone number",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "alreadyHaveAccount": "Already have an account? ",
+    "signIn": "Sign in",
+    "register": "Register",
+    "fullNameError": "Please enter full name",
+    "phoneNumberError": "Please enter phone number",
+    "passwordError": "Please enter password",
+    "confirmPasswordError": "Password does not match"
+  },
+  "forgotPasswordScreen": {
+    "forgotPassword": "Forgot password",
+    "enterPhone": "Please enter your email or phone number to reset your password",
+    "email": "Email or phone number",
+    "resetPassword": "Reset password",
+    "changePasswordSuccess": "Change password success",
+    "changePasswordFail": "Change password fail"
+  },
+  "verifyPhoneScreen": {
+    "title": "Verify Phone Number",
+    "verifyPhone": "Verify your phone number",
+    "alreadySend": "We have sent the verification code to phone number",
+    "checkAndEnterCode": "Please check and enter the code in the box below.",
+    "notReceive": "Didn't receive the verification code?",
+    "resendCode": "Resend code"
+  },
+  "chooseDoctorForBooking": {
+    "title": "Choose Doctor",
+    "placeHolderSearch": "Search for a doctor by name",
+    "filter": "Filter",
+    "academicRanks": "Academic Ranks",
+    "departmentInFilter": "Departments",
+    "department": "Department:",
+    "placeHolderSearchDepartment": "Search for a department",
+    "date": "Schedule:",
+    "gender": "Gender:",
+    "fee": "Fee:",
+    "rating": "Rating:"
+  },
+  "chooseDate": {
+    "title": "Choose Date",
+    "note": "Please choose an examination date that fits your schedule. We support booking appointments in advance",
+    "noteDate": " from 1st to 30th",
+    "toDay": "Today",
+    "outOfSlot": "Out of slot",
+    "freeSlot": "Free slots",
+    "chooseTime": "Choose examination time",
+    "close": "Close",
+    "morning": "Morning",
+    "afternoon": "Afternoon"
+  },
+  "chooseProfile": {
+    "title": "Choose Patient Profile"
+  },
+  "confirmBookingInformationInBooking": {
+    "title": "Confirm Booking Information",
+    "departmentHaveChoosen": "Departments have been choosen",
+    "deletedAll": "Deleted all",
+    "department": "Department:",
+    "doctor": "Doctor:",
+    "date": "Date:",
+    "time": "Time:",
+    "fee": "Fee:",
+    "temporaryTolal": "Temporary total:",
+    "addMoreDepartments": "Add more departments",
+    "confirm": "Confirm"
+  },
+  "billingInformation": {
+    "title": "Billing Information",
+    "note": "Please check the information again before paying",
+    "patientInformation": "Patient Information",
+    "bookingInformation": "Booking Information",
+    "doctor": "Doctor",
+    "typeOfService": "Type of service",
+    "serviceExamination": "Service examination",
+    "department": "Department",
+    "date": "Date",
+    "time": "Time",
+    "fee": "Examination fee",
+    "choosePaymentMethod": "Choose payment method",
+    "momoE-wallet": "Momo E-wallet",
+    "vnpayE-wallet": "Vnpay E-wallet",
+    "otherFee": "Utility fee + PTF",
+    "total": "Total",
+    "confirmNote": "I agree to the Convenience Fee TheDuck Hospital provides to book examinations and pay hospital fees, this is not a mandatory service by the medical facility.",
+    "payment": "Payment confirmation",
+    "notEnoughMoney": "Balance is not enough to pay. Please add money to your wallet to continue paying",
+    "success": "Payment success",
+    "fail": "Payment fail"
+  },
+  "wallet": {
+    "accountOwner": "Account owner",
+    "availableBalance": "Available balance",
+    "phoneNumber": "Phone number",
+    "createDate": "Create date",
+    "myWallet": "My Wallet",
+    "transactionInThisMonth": "Transaction in this month",
+    "statistic": "Statistic",
+    "topUp": "Top up",
+    "qrScan": "QR Scan",
+    "recentTransaction": "Recent transaction",
+    "viewAll": "View all",
+    "enterPinCode": "Enter your PIN code",
+    "forgotPinCode": "Forgot PIN code?",
+    "forgotPinCodeMessage": "Please contact the hotline 1900-1234 for support"
+  },
+  "forgotPassword": {
+    "password": "Password",
+    "changePassword": "Change Password",
+    "oldPassword": "Old password",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm password",
+    "change": "Change password",
+    "enterCorrectInfo": "Please enter the correct information below to change your password",
+    "blankOldPassword": "Old password cannot be blank",
+    "blankNewPassword": "New password cannot be blank",
+    "blankConfirmPassword": "Confirm password cannot be blank",
+    "confirmPasswordNotMatch": "Confirm password does not match",
+    "passwordLengthError": "The new password must contain at least 8 characters, 1 uppercase letter, 1 lowercase letter, 1 number and 1 special character"
+  },
+  "changeAccountInfo": {
+    "title": "Change Account Information",
+    "fullName": "Full name",
+    "phoneNumber": "Phone number",
+    "numberOfCreatedProfiles": "Number of created profiles (max 10)",
+    "save": "Save",
+    "createdAt": "Created at"
+  }
+}
